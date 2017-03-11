@@ -10,7 +10,7 @@ import com.promeritage.jdbc.model.UserVO;
 import com.promeritage.jdbc.service.UserService;
 import com.promeritage.jdbc.utils.ShareTool;
 
-public class PromeritagJdbc {
+public class JDBCMain {
 	private static UserService userService;
 	
 	public static void main(String[] args) {
