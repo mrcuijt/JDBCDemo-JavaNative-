@@ -1,4 +1,4 @@
-package employee.jdbc.utils;
+package com.promeritage.jdbc.utils;
 
 import java.util.ArrayList;
 import java.util.Base64;
